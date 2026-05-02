@@ -69,7 +69,7 @@ Saya adalah mahasiswa Sistem Informasi semester 6 di Jakarta International Unive
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=transparent&hide_border=true&title_color=212121&text_color=434d58" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanchrstn&layout=compact&theme=transparent&hide_border=true&title_color=212121&text_color=434d58" alt="Top Languages" />
 </div>
 
 ---
