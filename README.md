@@ -1,16 +1,86 @@
-## Hi there 👋
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=212121&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Firman+Christian+Purba+👋;Front-End+Web+Developer;UI%2FUX+Designer;Flutter+Mobile+Developer" alt="Typing SVG" />
 
-<!--
-**firmanchrstn/firmanchrstn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+    <b>Information Systems Student | Translating minimalist designs into functional code</b>
+  </p>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/linkedin-kamu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://dribbble.com/dribbble-kamu"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+Saya adalah mahasiswa Sistem Informasi semester 6 di Jakarta International University (JIU) dengan fokus kuat pada **UI/UX Design** dan **Front-End Development**. Saya suka membangun antarmuka yang modern, bersih, dan *user-centric*—mengambil inspirasi dari estetika minimalis. 
+
+- 🔭 Sedang fokus mengembangkan aplikasi web menggunakan **Next.js** & **Tailwind CSS**, serta *mobile apps* menggunakan **Flutter**.
+- 💡 Berpengalaman dalam merancang *wireframe*, *prototyping*, dan *visual hierarchy* menggunakan **Figma**.
+- 🎯 Misi saat ini: Menciptakan ekosistem digital yang tidak hanya berfungsi dengan baik (seperti sistem antrean medis atau portal akademik), tetapi juga memberikan pengalaman visual yang memanjakan mata.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Front-End & Mobile**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Back-End, Database & Hardware**  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+**Design & Version Control**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🚀 Highlighted Projects
+
+*   **JIU Student Information Portal** - Mengembangkan *frontend* sentral untuk sumber daya universitas dan informasi departemen.
+*   **LinkAja Reborn (UXORA Team)** - Desain ulang ekosistem keuangan digital untuk kompetisi Multimedia In Action 2025.
+*   **Mobile JKN Redesign** - *UI/UX Case Study* yang berfokus pada peningkatan pengalaman pengguna di sistem antrean digital.
+*   **Wisata Indonesia** - Aplikasi *mobile* bertema liburan yang dibangun sepenuhnya menggunakan Flutter.
+*   **Fake News Detector** - Aplikasi pendeteksi berita palsu yang berfokus pada ketepatan data dan logika.
+*   **SmartLib Digital Library** - Sistem perpustakaan digital komprehensif, mencakup diagram *use case* hingga prototipe antarmuka.
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=transparent&hide_border=true&title_color=212121&text_color=434d58&icon_color=000000&bg_color=ffffff" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=transparent&hide_border=true&title_color=212121&text_color=434d58&icon_color=000000&background=ffffff" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=transparent&hide_border=true&title_color=212121&text_color=434d58" alt="Top Languages" />
+</div>
+
+---
+<p align="center">
+  <i>"Design is not just what it looks like and feels like. Design is how it works."</i>
+</p>
