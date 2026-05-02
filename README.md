@@ -20,9 +20,9 @@
 
 Saya adalah mahasiswa Sistem Informasi semester 6 di Jakarta International University (JIU) dengan fokus kuat pada **UI/UX Design** dan **Front-End Development**. Saya suka membangun antarmuka yang modern, bersih, dan *user-centric*—mengambil inspirasi dari estetika minimalis. 
 
-- 🔭 Sedang fokus mengembangkan aplikasi web menggunakan **HTML**, **CSS** & **JS**, serta *mobile apps* menggunakan **Flutter**.
-- 💡 Berpengalaman dalam merancang *wireframe*, *prototyping*, dan *visual hierarchy* menggunakan **Figma**.
-- 🎯 Misi saat ini: Menciptakan ekosistem digital yang tidak hanya berfungsi dengan baik (seperti sistem antrean medis atau portal akademik), tetapi juga memberikan pengalaman visual yang memanjakan mata.
+- Sedang fokus mengembangkan aplikasi web menggunakan **HTML**, **CSS** & **JS**, serta *mobile apps* menggunakan **Flutter**.
+- Berpengalaman dalam merancang *wireframe*, *prototyping*, dan *visual hierarchy* menggunakan **Figma**.
+- Misi saat ini: Menciptakan ekosistem digital yang tidak hanya berfungsi dengan baik (seperti sistem antrean medis atau portal akademik), tetapi juga memberikan pengalaman visual yang memanjakan mata.
 
 ---
 
