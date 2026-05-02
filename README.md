@@ -18,11 +18,11 @@
 
 ### About Me
 
-Saya adalah mahasiswa Sistem Informasi semester 6 di Jakarta International University (JIU) dengan fokus kuat pada **UI/UX Design** dan **Front-End Development**. Saya suka membangun antarmuka yang modern, bersih, dan *user-centric*—mengambil inspirasi dari estetika minimalis. 
+I am a 6th-semester Information Systems student at Jakarta International University (JIU) with a strong focus on **UI/UX Design** and **Front-End Development**. I love building modern, clean, and *user-centric* interfaces—drawing inspiration from minimalist aesthetics. 
 
-- Sedang fokus mengembangkan aplikasi web menggunakan **HTML**, **CSS** & **JS**, serta *mobile apps* menggunakan **Flutter**.
-- Berpengalaman dalam merancang *wireframe*, *prototyping*, dan *visual hierarchy* menggunakan **Figma**.
-- Misi saat ini: Menciptakan ekosistem digital yang tidak hanya berfungsi dengan baik (seperti sistem antrean medis atau portal akademik), tetapi juga memberikan pengalaman visual yang memanjakan mata.
+- Currently focused on developing web applications using **HTML**, **CSS** & **JS**, as well as *mobile apps* using **Flutter**.
+- Experienced in designing *wireframes*, *prototyping*, and establishing *visual hierarchy* using **Figma**.
+- Current mission: Creating digital ecosystems that not only function flawlessly (such as medical queue systems or academic portals) but also provide visually pleasing experiences.
 
 ---
 
@@ -46,12 +46,12 @@ Saya adalah mahasiswa Sistem Informasi semester 6 di Jakarta International Unive
 
 ### Highlighted Projects
 
-- **JIU Student Information Portal** - Mengembangkan *frontend* sentral untuk sumber daya universitas dan informasi departemen.
-- **LinkAja Reborn (UXORA Team)** - Desain ulang ekosistem keuangan digital untuk kompetisi Multimedia In Action 2025.
-- **Mobile JKN Redesign** - *UI/UX Case Study* yang berfokus pada peningkatan pengalaman pengguna di sistem antrean digital.
-- **Wisata Indonesia** - Aplikasi *mobile* bertema liburan yang dibangun sepenuhnya menggunakan Flutter.
-- **Fake News Detector** - Aplikasi pendeteksi berita palsu yang berfokus pada ketepatan data dan logika.
-- **SmartLib Digital Library** - Sistem perpustakaan digital komprehensif, mencakup diagram *use case* hingga prototipe antarmuka.
+- **JIU Student Information Portal** - Developed a central *frontend* for university resources and department information.
+- **LinkAja Reborn (UXORA Team)** - Redesigned a digital financial ecosystem for the Multimedia In Action 2025 competition.
+- **Mobile JKN Redesign** - A *UI/UX Case Study* focused on improving the user experience in digital queue systems.
+- **Wisata Indonesia** - A vacation-themed *mobile* application built entirely using Flutter.
+- **Fake News Detector** - A fake news detection application focused on data accuracy and logic.
+- **SmartLib Digital Library** - A comprehensive digital library system, covering everything from *use case* diagrams to interface prototypes.
 
 ---
 
