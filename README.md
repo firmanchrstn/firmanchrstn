@@ -9,6 +9,7 @@
   <p align="center">
     <a href="mailto:firmanchristianp@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/firmanchristianpurba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/firmanprba1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 </div>
 
@@ -44,12 +45,12 @@ Saya adalah mahasiswa Sistem Informasi semester 6 di Jakarta International Unive
 
 ### Highlighted Projects
 
-*   **JIU Student Information Portal** - Mengembangkan *frontend* sentral untuk sumber daya universitas dan informasi departemen.
-*   **LinkAja Reborn (UXORA Team)** - Desain ulang ekosistem keuangan digital untuk kompetisi Multimedia In Action 2025.
-*   **Mobile JKN Redesign** - *UI/UX Case Study* yang berfokus pada peningkatan pengalaman pengguna di sistem antrean digital.
-*   **Wisata Indonesia** - Aplikasi *mobile* bertema liburan yang dibangun sepenuhnya menggunakan Flutter.
-*   **Fake News Detector** - Aplikasi pendeteksi berita palsu yang berfokus pada ketepatan data dan logika.
-*   **SmartLib Digital Library** - Sistem perpustakaan digital komprehensif, mencakup diagram *use case* hingga prototipe antarmuka.
+- **JIU Student Information Portal** - Mengembangkan *frontend* sentral untuk sumber daya universitas dan informasi departemen.
+- **LinkAja Reborn (UXORA Team)** - Desain ulang ekosistem keuangan digital untuk kompetisi Multimedia In Action 2025.
+- **Mobile JKN Redesign** - *UI/UX Case Study* yang berfokus pada peningkatan pengalaman pengguna di sistem antrean digital.
+- **Wisata Indonesia** - Aplikasi *mobile* bertema liburan yang dibangun sepenuhnya menggunakan Flutter.
+- **Fake News Detector** - Aplikasi pendeteksi berita palsu yang berfokus pada ketepatan data dan logika.
+- **SmartLib Digital Library** - Sistem perpustakaan digital komprehensif, mencakup diagram *use case* hingga prototipe antarmuka.
 
 ---
 
